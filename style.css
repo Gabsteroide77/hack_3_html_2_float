@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+}
+
+div{
+    height: 100px;
+    background-color: #93b5c9;
+}
+
+section{
+    height: 250px;
+    background-color: #ab2849;
+    margin: 0 0 10px 0 ;
+    clear: left;
+}
+
+nav{
+    height: 100px;
+    background-color: #ab2849;
+    width: 85%;
+    float: left;
+    margin: 10px 0 10px 0 ;
+}
+
+footer{
+    width: 97%;
+    height: 75px;
+    background-color: #ab2849;
+    clear: left;
+    margin: 37% 0 0 20px;
+}
